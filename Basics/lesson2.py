@@ -1,12 +1,14 @@
 #Circumference and area of a circle
 
+name_of_circle=input("Enter the name of the circle: ")
+#input() function takes input from the user as a string
+
 pi=3.14 #value of pi (float)
 radius=float(input("Enter the radius of the circle: ")) 
 #when we write something inside input() function, it shows that as a prompt to the user
-#input() function takes input from the user as a string
+
 #we convert that string input to float using float() function
 
-name_of_circle=input("Enter the name of the circle: ")
 
 #we get all the required values from the user
 
