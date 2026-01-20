@@ -28,7 +28,7 @@ def texting(n):
         print(f" {tens[ten]}",end="") 
         print(f" {ones[one]}",end="")
     
-#finis of function----------------------------------------------------
+#finish of function----------------------------------------------------
 
 
 number=int(input("Enter a 4 digit number: "))

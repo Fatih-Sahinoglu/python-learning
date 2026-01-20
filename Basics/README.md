@@ -18,3 +18,5 @@ This folder includes:
 - lesson14.py → about dict
 - lesson15.py → writing dict with loop,nested dict
 - lesson16.py → functions
+- lesson17.py → global, nonlocal
+- lesson18.py → math module
