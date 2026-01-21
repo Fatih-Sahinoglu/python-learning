@@ -25,3 +25,5 @@ This folder includes:
 - lesson21.py → lambda function,map(),filter(),sorted()
 - lesson22.py → decorator functions
 - lesson23.py → starting oop, some magic methods
+- lesson24.py → inheritance
+- lesson25.py → overriding,isinstance(),issubclass()
