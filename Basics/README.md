@@ -28,3 +28,4 @@ This folder includes:
 - lesson24.py → inheritance
 - lesson25.py → overriding,isinstance(),issubclass()
 - lesson26.py → Public Protected Private
+- lesson27.py → Polymorphism
