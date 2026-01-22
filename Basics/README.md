@@ -31,3 +31,4 @@ This folder includes:
 - lesson27.py → Polymorphism
 - lesson28.py → Abstract Class and Duck Typing
 - lesson29.py → Aggregation and Composition
+- lesson30.py → Nested class
