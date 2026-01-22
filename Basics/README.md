@@ -27,3 +27,4 @@ This folder includes:
 - lesson23.py → starting oop, some magic methods
 - lesson24.py → inheritance
 - lesson25.py → overriding,isinstance(),issubclass()
+- lesson26.py → Public Protected Private
