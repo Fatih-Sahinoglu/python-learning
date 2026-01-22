@@ -29,3 +29,4 @@ This folder includes:
 - lesson25.py → overriding,isinstance(),issubclass()
 - lesson26.py → Public Protected Private
 - lesson27.py → Polymorphism
+- lesson28.py → Abstract Class and Duck Typing
