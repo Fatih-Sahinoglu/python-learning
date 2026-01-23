@@ -34,3 +34,4 @@ This folder includes:
 - lesson30.py → Nested class
 - lesson31.py → static methods
 - lesson32.py → class methods
+- lesson33.py → getter,setter,deleter,meta programming
